@@ -56,13 +56,13 @@
             ]
         },
         {
-	        "word": "Multi Item Sorter",
-	        "kana": "multi item sorter",
-	        "description": "1つのチェストに複数種類のアイテムをしわけることができる仕分け機\nMISと略される",
-	        "categories": [
-		        "je",
-		        "be",
-		        "other"
+	"word": "Multi Item Sorter",
+	"kana": "multi item sorter",
+	"description": "1つのチェストに複数種類のアイテムをしわけることができる仕分け機\nMISと略される",
+	"categories": [
+		"je",
+		"be",
+		"other"
 	]
 }
     ]
