@@ -10,7 +10,13 @@ Minecraftのレッドストーン回路用語を集めた場所です。回路�
 ## 用語の追加方法
 ※用語の追加にはGithubのアカウントが必要になります。
 
+### リポジトリをフォークする
+※この作業は一度だけでよいです。
+- 右上の`Fork`をクリック
+- `Create fork`をクリック
+- 正常にForkできていれば右上に`(自身のアカウント名)/redstone-circuit-dictionary`となったページに飛ばされます。
 ### ブランチを切る
+※以下の作業はフォークしたリポジトリで行ってください
 - `master`から`View all branches`をクリック
 - 右上の`New branch`をクリック
 - `New branch name`に`words/[任意の名前]`と入力
@@ -40,4 +46,5 @@ Minecraftのレッドストーン回路用語を集めた場所です。回路�
 - `Add a description`に追加した用語を入力
 - `Create pull request`をクリック
 
-以上となります。私がレビューを行ったあと、修正箇所があればコメントを残し、修正がなければそのまま私が登録をします。
+以上となります。私がレビューを行ったあと、修正箇所があればコメントを残し、修正がなければそのまま私が登録をします。  
+レビューは[フォーク元のリポジトリであるこちら](https://github.com/Kyouju-Redstone/redstone-circuit-dictionary)の`Pull requests`ページから見ることができます。
