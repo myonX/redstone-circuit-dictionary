@@ -14,7 +14,7 @@ Minecraftのレッドストーン回路用語を集めた場所です。回路�
 ※この作業は一度だけでよいです。
 - 右上の`Fork`をクリック
 - `Create fork`をクリック
-- 正常にForkできていれば右上に`(自身のアカウント名)/redstone-circuit-dictionary`となったページに飛ばされます。
+- 正常にForkできていれば右上に`(自身のアカウント名)/redstone-circuit-dictionary`となったページに飛ばされます
 ### ブランチを切る
 ※以下の作業はフォークしたリポジトリで行ってください
 - `master`から`View all branches`をクリック
